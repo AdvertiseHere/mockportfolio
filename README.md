@@ -9,4 +9,4 @@ This is a mock portfolio which demonstrates HTML and responsive CSS frameworks. 
 - [Bootstrap](https://getbootstrap.com/)
 
 ##### Open 'test.html' in your preferred web browser.
-You can make this page your own by customizing the images and text. This is a good tool to demonstrate a clean, responsive portfolio as a PDF.
+You can make this page your own by customizing the images and text. This is a good tool to demonstrate a clean, responsive portfolio that can be updated as your projects develop.
